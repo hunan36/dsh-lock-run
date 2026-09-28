@@ -1,4 +1,4 @@
 node_modules/
-lib/
+.pnpm-store/
 *.tsbuildinfo
 .DS_Store
