@@ -1,0 +1,7 @@
+- insert:
+    - id: lock-run
+      name: 'dsh-lock-run'
+      config:
+        mode: allow-display-sleep
+        pollMs: 5000
+        graceMs: 60000
